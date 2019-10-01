@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchSetsToQuantification2", "SearchSetsToQuantification2\SearchSetsToQuantification2.csproj", "{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_2019|Any CPU = Debug_2019|Any CPU
+		Debug_2019|x64 = Debug_2019|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug2020|Any CPU = Debug2020|Any CPU
+		Debug2020|x64 = Debug2020|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug_2019|Any CPU.ActiveCfg = Debug_2019|Any CPU
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug_2019|Any CPU.Build.0 = Debug_2019|Any CPU
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug_2019|x64.ActiveCfg = Debug_2019|x64
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug_2019|x64.Build.0 = Debug_2019|x64
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug|x64.ActiveCfg = Debug|x64
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug|x64.Build.0 = Debug|x64
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug2020|Any CPU.ActiveCfg = Debug_2019|Any CPU
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug2020|Any CPU.Build.0 = Debug_2019|Any CPU
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug2020|x64.ActiveCfg = Debug_2019|x64
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Debug2020|x64.Build.0 = Debug_2019|x64
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Release|x64.ActiveCfg = Release|x64
+		{F6C5A71E-592A-4AC3-9ABA-2D6D82B8F2CB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41ECFE95-403A-489E-ABE1-3932E1D19DD8}
+	EndGlobalSection
+EndGlobal
