@@ -1,5 +1,6 @@
 # Auto_Quantification
 Automated Quantification creator for Autodesk Navisworks
+Autodesk University: https://youtu.be/FROfd0oOZe4
 
 Release for 19 version of Navisworks https://github.com/Babinoff/Auto_Quantification/releases copy files to your nw plugin folders:
 
